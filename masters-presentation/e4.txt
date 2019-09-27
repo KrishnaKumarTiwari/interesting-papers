@@ -1,0 +1,70 @@
+Outline Introduction STP Basics    Exploiting STP      Attacks on STP         Previous Work         Proposed Work        Conclusion
+          Speciﬁcation, Trust-level and Active Detection
+                Mechanisms for Attacks in Spanning Tree
+                                                Protocol
+                                                Ankush Rai
+                                    Department of Computer Science
+                                Indian Institute Of Technology Guwahati
+                                            a.rai@iitg.ernet.in
+                                         November 20, 2010
+                                            Ankush Rai      Speciﬁcation, Trust-level & Active Detection Mechanisms for Attacks in STP
+Outline   Introduction STP Basics Exploiting STP      Attacks on STP         Previous Work         Proposed Work        Conclusion
+        1 Introduction
+        2 STP Basics
+        3 Exploiting STP
+        4 Attacks on STP
+        5 Previous Work
+        6 Proposed Work
+        7 Conclusion
+                                           Ankush Rai      Speciﬁcation, Trust-level & Active Detection Mechanisms for Attacks in STP
+Outline    Introduction STP Basics Exploiting STP      Attacks on STP         Previous Work         Proposed Work        Conclusion
+Spanning Tree Protocol
+        A protocol for loop avoidance and link management in layer 2 network.
+                                            Ankush Rai      Speciﬁcation, Trust-level & Active Detection Mechanisms for Attacks in STP
+Outline    Introduction STP Basics Exploiting STP      Attacks on STP         Previous Work         Proposed Work        Conclusion
+Spanning Tree Protocol
+        A protocol for loop avoidance and link management in layer 2 network.
+                                            Ankush Rai      Speciﬁcation, Trust-level & Active Detection Mechanisms for Attacks in STP
+Outline    Introduction STP Basics Exploiting STP      Attacks on STP         Previous Work         Proposed Work        Conclusion
+Layer -2 Network
+        A network under single broadcast domain.
+                                            Ankush Rai      Speciﬁcation, Trust-level & Active Detection Mechanisms for Attacks in STP
+Outline    Introduction STP Basics Exploiting STP      Attacks on STP         Previous Work         Proposed Work        Conclusion
+Layer -2 Network
+        A network under single broadcast domain.
+        Layer -2 Connecting Devices: Extend the layer 2 network capabilities by
+        separating the collusion domain (but not the broadcast domain).
+                                            Ankush Rai      Speciﬁcation, Trust-level & Active Detection Mechanisms for Attacks in STP
+Outline    Introduction STP Basics Exploiting STP      Attacks on STP         Previous Work         Proposed Work        Conclusion
+Layer -2 Network
+        A network under single broadcast domain.
+        Layer -2 Connecting Devices: Extend the layer 2 network capabilities by
+        separating the collusion domain (but not the broadcast domain).
+              Bridge: Connect two network that may of diﬀerent type..
+                                            Ankush Rai      Speciﬁcation, Trust-level & Active Detection Mechanisms for Attacks in STP
+Outline    Introduction STP Basics Exploiting STP      Attacks on STP         Previous Work         Proposed Work        Conclusion
+Layer -2 Network
+        A network under single broadcast domain.
+        Layer -2 Connecting Devices: Extend the layer 2 network capabilities by
+        separating the collusion domain (but not the broadcast domain).
+              Bridge: Connect two network that may of diﬀerent type..
+              Switch: Connect two network that must be same type..
+                                            Ankush Rai      Speciﬁcation, Trust-level & Active Detection Mechanisms for Attacks in STP
+Outline Introduction STP Basics Exploiting STP      Attacks on STP         Previous Work         Proposed Work        Conclusion
+Slide with two columns: items and a graphic11
+                                         Ankush Rai      Speciﬁcation, Trust-level & Active Detection Mechanisms for Attacks in STP
+Outline Introduction STP Basics Exploiting STP      Attacks on STP         Previous Work         Proposed Work        Conclusion
+Slide with two columns: items and a graphic222
+                                         Ankush Rai      Speciﬁcation, Trust-level & Active Detection Mechanisms for Attacks in STP
+Outline Introduction STP Basics Exploiting STP      Attacks on STP         Previous Work         Proposed Work        Conclusion
+Slide with two columns: items and a graphic2222
+                                         Ankush Rai      Speciﬁcation, Trust-level & Active Detection Mechanisms for Attacks in STP
+Outline Introduction STP Basics Exploiting STP      Attacks on STP         Previous Work         Proposed Work        Conclusion
+Slide with two columns: items and a graphic33333
+                                         Ankush Rai      Speciﬁcation, Trust-level & Active Detection Mechanisms for Attacks in STP
+Outline Introduction STP Basics Exploiting STP      Attacks on STP         Previous Work         Proposed Work        Conclusion
+Slide with two columns: items and a graphic44444
+                                         Ankush Rai      Speciﬁcation, Trust-level & Active Detection Mechanisms for Attacks in STP
+Outline Introduction STP Basics Exploiting STP      Attacks on STP         Previous Work         Proposed Work        Conclusion
+Slide with two columns: items and a graphic55555
+                                         Ankush Rai      Speciﬁcation, Trust-level & Active Detection Mechanisms for Attacks in STP

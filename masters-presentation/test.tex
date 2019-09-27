@@ -1,0 +1,62 @@
+\documentclass[10pt]{beamer}
+\usetheme{Copenhagen} 
+\usepackage{graphicx}
+\usepackage{algorithmic}
+\usepackage{algorithm}
+%\usepackage{algo}
+
+
+\begin{document}
+
+%\begin{frame}[fragile]
+\frametitle{Gradiennd Descent.}
+
+%\begin{block}{Algorithm}
+
+
+\begin{algorithm}
+\caption{Gradient descent}
+%\label{<your label for references later in your document>}
+\begin{algorithmic}
+\IF {$i\geq maxval$} 
+        \STATE $i\gets 0$
+\ELSE
+        \IF {$i+k\leq maxval$}
+                \STATE $i\gets i+k$
+        \ENDIF
+\ENDIF 
+\end{algorithmic}
+
+\end{algorithm}
+
+%\end{block}
+%\end{frame}
+
+
+\begin{frame}{test2}
+
+$w^{(i)}$ may be choosen as  $w^{(i)} =  \exp  -x$% \frac{(x^{(i)} - x)^2{2^2}$
+$\frac{(x^{(i)} - x)^2}{2^2}$
+
+\begin{equation*}
+|x| =
+\begin{cases}
+-x & \text{if } x < 0,\\
+0 & \text{if } x = 0,\\
+x & \text{if } x > 0.
+\end{cases}
+\end{equation*}
+
+\begin{equation*}
+		y =
+		\begin{cases}
+			1 & \text{if } h_\theta(x) < 0,\\
+			
+			%$1$ & \text{if} $h_\theta(x) > \frac{1}{2}$.\\
+			%0 & otherwise.
+		\end{cases}
+	\end{equation*}
+
+\end{frame}
+
+\end{document}

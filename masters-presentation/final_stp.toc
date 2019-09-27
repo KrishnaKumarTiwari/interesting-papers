@@ -1,0 +1,9 @@
+\beamer@endinputifotherversion {3.07pt}
+\beamer@sectionintoc {2}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {3}{Graphical Models}{6}{0}{2}
+\beamer@sectionintoc {4}{Approximation Methods}{8}{0}{3}
+\beamer@sectionintoc {5}{Relational Dependency Networks}{10}{0}{4}
+\beamer@sectionintoc {6}{Second Order PL in RDN}{13}{0}{5}
+\beamer@sectionintoc {7}{Second Order RBC}{15}{0}{6}
+\beamer@sectionintoc {8}{Experimental Results}{18}{0}{7}
+\beamer@sectionintoc {9}{Conclusion and Future Work}{25}{0}{8}
